@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 parts:
-- caption: Основная часть
+- caption: Оглавление
   chapters:
   - file: chapter1
   - file: chapter2
