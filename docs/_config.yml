@@ -2,10 +2,10 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 # Comprehensive example: https://github.com/executablebooks/jupyter-book/blob/master/docs/_config.yml
 
+project: Book Template 
 title: Book Template
 author: VMescheryakov
 logo: logo.png
-project: Book Template 
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
