@@ -18,10 +18,6 @@ kernelspec:
 
 # Наименование документа
 
----
-```{tableofcontents}
-```
----
 [github]: https://github.com/VMescheryakov/book-template "GitHub source code repository for the example project"
 [tutorial]: https://docs.readthedocs.io/en/stable/tutorial/index.html "Official Read the Docs Tutorial"
 [jb-docs]: https://jupyterbook.org/en/stable/ "Official Jupyter Book documentation"

@@ -13,8 +13,8 @@ kernelspec:
   name: python3
 ---
 
-# 1 Chapter 1
+# Chapter
 
-## 1.1 SubChapter 1
+## SubChapter 1
 
-## 1.2 SubChapter 2
+## SubChapter 2

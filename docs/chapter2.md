@@ -12,8 +12,8 @@ kernelspec:
   language: python
   name: python3
 ---
-# 2 Chapter 2
+# Chapter
 
-## 2.1 SubChapter 1
+## SubChapter 1
 
-## 2.2 SubChapter 2
+## SubChapter 2
