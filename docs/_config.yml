@@ -84,7 +84,7 @@ sphinx:
           "floor": ["\\lfloor#1\\rfloor", 1]
           "bmat": ["\\left[\\begin{array}"]
           "emat": ["\\end{array}\\right]"]
-        
+    html_theme: sphinx_rtd_theme    
   extra_extensions:
     - sphinx.ext.intersphinx
     - sphinx_inline_tabs
@@ -92,3 +92,5 @@ sphinx:
     - sphinx_examples
     - hoverxref.extension
 
+#sphinx-book-theme
+#pydata_sphinx_theme
