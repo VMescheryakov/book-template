@@ -16,6 +16,3 @@ kernelspec:
 
 (intro)=
 # Introd
-
-```{tableofcontents}
-```
